@@ -10,5 +10,4 @@ Demo: https://pay-form.vercel.app/
 ## Backend
 - Express.js
 - Mongo DB
-- Axios
 
