@@ -1,5 +1,3 @@
-## Тестовое задание 
-
 Demo: https://pay-form.vercel.app/
 
 ## Frontend
